@@ -143,14 +143,7 @@ BSCS Student | AI & Computer Vision Enthusiast
 
 ```text
 Email: afzaladeeba714@gmail.com
-```
-
----
-
-# ⭐ GitHub
-
-If you like this project, give it a star on GitHub.
-````
+``
 
 
 
