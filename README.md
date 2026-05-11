@@ -1,5 +1,5 @@
 
-# 🐾 Wildlife Animal Detection Web App
+ 🐾 Wildlife Animal Detection Web App
 
 An AI-powered web application that detects and classifies wildlife animals from uploaded images using Computer Vision and Deep Learning.
 
@@ -80,7 +80,7 @@ cd wildlife-animal-detection-webapp
 
 ---
 
-## Step 3: Install Requirements
+#Step 3: Install Requirements
 
 ```bash
 pip install fastapi uvicorn torch torchvision pillow python-multipart
