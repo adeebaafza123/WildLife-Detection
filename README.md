@@ -131,18 +131,16 @@ This project uses a pretrained deep learning image classification model from Tor
 
 ---
 
-# 👩‍💻 Author
+## Contributors
 
-Adeeba Afzal
-
-BSCS Student | AI & Computer Vision Enthusiast
-
----
+- Adeeba Afzal
+- Hifza Bibi 
 
 # 📧 Contact
 
 ```text
 Email: afzaladeeba714@gmail.com
+Email: fizzsatti26@gmail.com
 ``
 
 
