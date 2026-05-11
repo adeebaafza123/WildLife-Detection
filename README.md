@@ -5,7 +5,7 @@ An AI-powered web application that detects and classifies wildlife animals from 
 
 ---
 
-# 📌 Features
+ 📌 Features
 
 - Upload animal images
 - AI-based animal detection
@@ -16,7 +16,7 @@ An AI-powered web application that detects and classifies wildlife animals from 
 
 ---
 
-# 🛠 Technologies Used
+ 🛠 Technologies Used
 
 ## Frontend
 - HTML
@@ -52,7 +52,7 @@ Animal_Detection_WebApp/
 
 ---
 
-# ⚙️ How It Works
+ ⚙️ How It Works
 
 1. User uploads an animal image.
 2. The frontend sends the image to the backend.
@@ -62,9 +62,9 @@ Animal_Detection_WebApp/
 
 ---
 
-# 🚀 Installation Guide
+🚀 Installation Guide
 
-## Step 1: Clone Repository
+Step 1: Clone Repository
 
 ```bash
 git clone https://github.com/your-username/wildlife-animal-detection-webapp.git
@@ -105,13 +105,13 @@ uvicorn main:app --reload
 
 ---
 
-# 🧠 AI Model
+ 🧠 AI Model
 
 This project uses a pretrained deep learning image classification model from Torchvision for animal detection.
 
 ---
 
-# 🎯 Project Objectives
+ 🎯 Project Objectives
 
 - Learn Computer Vision concepts
 - Build AI-powered web applications
@@ -121,7 +121,7 @@ This project uses a pretrained deep learning image classification model from Tor
 
 ---
 
-# 📸 Future Improvements
+ 📸 Future Improvements
 
 - Add real-time camera detection
 - Improve model accuracy
